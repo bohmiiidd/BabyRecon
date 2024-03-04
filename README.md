@@ -1,3 +1,15 @@
+
+
+ ******       **     ******   **    **       *******   ********   ******    *******   ****     **      
+/*////**     ****   /*////** //**  **       /**////** /**/////   **////**  **/////** /**/**   /**      
+/*   /**    **//**  /*   /**  //****        /**   /** /**       **    //  **     //**/**//**  /**      
+/******    **  //** /******    //**         /*******  /******* /**       /**      /**/** //** /**      
+/*//// ** **********/*//// **   /**         /**///**  /**////  /**       /**      /**/**  //**/**      
+/*    /**/**//////**/*    /**   /**         /**  //** /**      //**    **//**     ** /**   //****      
+/******* /**     /**/*******    /**         /**   //**/******** //******  //*******  /**    //***      
+///////  //      // ///////     //          //     // ////////   //////    ///////   //      /// 
+
+
 # BabyRecon
 
 BabyRecon is a versatile toolkit designed to streamline the reconnaissance phase of penetration testing and security assessments. It integrates various tools commonly used by security professionals into a single platform, allowing for efficient scanning, exploitation, and content discovery.
