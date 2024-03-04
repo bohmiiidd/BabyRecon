@@ -14,11 +14,14 @@ BabyRecon is a versatile toolkit designed to streamline the reconnaissance phase
 BabyRecon can be easily installed by cloning the repository:
 
 git clone https://github.com/bohmiiidd/BabyRecon.git
-cd babyrecon 
+
+cd babyrecon
+
 ./auto.sh
 
 ## Contribution
 
 Contributions to BabyRecon are welcome! If you have suggestions for new features, improvements, or bug fixes, feel free to submit a pull request.
+
 
 
