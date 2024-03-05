@@ -9,7 +9,7 @@ BabyRecon is a versatile toolkit designed to streamline the reconnaissance phase
 ## Features
 
 - **Content Discovery**: Offers tool for discovering hidden files and directories on web servers, such as directory brute-forcing and spidering .
-- **Nmap Integration**: BabyRecon incorporates Nmap and NmapAutomator for network discovery, port scanning, and service enumeration.
+- **Nmap Integration**: BabyRecon incorporates Nmap and NmapAutomator for network discovery, port scanning, vulnerabilities scan, and service enumeration.
 - **Exploitation Tools**: Includes a curated selection of exploits and auxiliary modules for vulnerability exploitation and post-exploitation tasks.
 - **Wordlists**: Provides a collection of wordlists commonly used in password cracking and enumeration activities.
 - **Shell Generator**: Simplifies the process of generating reverse shells for various operating systems and architectures.
